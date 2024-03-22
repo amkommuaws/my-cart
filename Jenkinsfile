@@ -5,7 +5,9 @@
 //@Library("com.i27achademy.slb@main", "com.i27achademy.newslb") _
 
 @Library("com.i27achademy.slb@main") _
- firstPipeline()
+ firstPipeline(
+  appName: 'cart'
+ )
 
 
 
