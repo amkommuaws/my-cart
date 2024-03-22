@@ -6,7 +6,7 @@
 
 @Library("com.i27achademy.slb@main") _
  firstPipeline(
-  appName: 'cart'
+  appName: 'checkout'
  )
 
 
